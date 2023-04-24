@@ -1,5 +1,5 @@
 import { Component } from 'react'
-import { ViewProps } from 'react-native'
+import { ViewProps } from 'deprecated-react-native-prop-types'
 
 export interface DatePickerProps extends ViewProps {
   /**
